@@ -20,3 +20,5 @@ Note that character count kept below 3000 which fits within the chatgpt defaults
 Copyright (c) 2026, Nicholas Teague
 
 Inquiries or outreach to the developer is invited at https://www.linkedin.com/in/nicholaste/
+
+Patent Pending
