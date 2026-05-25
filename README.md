@@ -22,3 +22,5 @@ Copyright (c) 2026, Nicholas Teague
 Inquiries or outreach to the developer is invited at https://www.linkedin.com/in/nicholaste/
 
 Patent Pending
+
+ChatFlavors is a trademark of Nicholas Teague LLC
